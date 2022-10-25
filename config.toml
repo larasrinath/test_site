@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "www.larasrinath.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Lara Srinath"
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/icon.png"
+  sharing_image = "/img/avatar.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "larasrinath"
   
@@ -55,7 +55,7 @@ enableEmoji = true
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "custom" 
+  #custom_theme = "custom" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter

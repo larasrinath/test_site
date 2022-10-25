@@ -17,6 +17,7 @@ image:
   preview_only: no
 projects: []
 ---
+![](images/featured.jpg)
 
 It has been a while...
 
